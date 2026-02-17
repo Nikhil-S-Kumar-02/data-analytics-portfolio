@@ -30,10 +30,4 @@ The dataset consists of:
 - Repeat customers showed significantly higher CLV
 - Gender and regional segmentation highlighted marketing opportunities
 
-## Author
-
-**Nikhil S Kumar**  
-Aspiring Data Analyst | Skilled in Excel, Power BI, and SQL  
-nikhilskumar02@gmail.com  
-https://www.linkedin.com/in/nikhilskumar2703/
 
