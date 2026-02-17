@@ -1,7 +1,7 @@
 # KPMG Data Analytics Project (Excel)
 
 ## Overview
-This project is part of a Data Science course by Internshala, focusing on cleaning, transforming, and analyzing customer and transaction data using Microsoft Excel. The goal is to derive insights that help improve customer segmentation, sales strategies, and estimate customer lifetime value (CLV).
+This project was done for educational and demonstrative purposes., focusing on cleaning, transforming, and analyzing customer and transaction data using Microsoft Excel. The goal is to derive insights that help improve customer segmentation, sales strategies, and estimate customer lifetime value (CLV).
 
 ## Data Sources
 The dataset consists of:
@@ -29,5 +29,5 @@ The dataset consists of:
 - Certain industries contributed the highest to revenue
 - Repeat customers showed significantly higher CLV
 - Gender and regional segmentation highlighted marketing opportunities
-
+> This project was done for educational and demonstrative purposes.
 
